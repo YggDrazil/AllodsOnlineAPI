@@ -6,7 +6,7 @@ Features:
 * Wrappers for clean work
 * Easy to setup and use
 * Bug fixes
-* Examples (here)
+* Examples (https://github.com/AllodsUnity/API-for-AOServer/blob/master/examples.php)
 
 Allods Unity private server uses this version of api.
 
